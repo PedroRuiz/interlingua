@@ -1,0 +1,9 @@
+<!-- una DTD para carousel -->
+<!ELEMENT messages (message+) >
+	<!ELEMENT message (email,nomine,nominefamilia,texto)+ >
+		<!ELEMENT email	        (#PCDATA)>
+		<!ELEMENT nomine 		(#PCDATA)>
+		<!ELEMENT nominefamilia (#PCDATA)>
+		<!ELEMENT texto			(#PCDATA)>
+        
+    

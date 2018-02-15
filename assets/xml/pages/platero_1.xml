@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documento SYSTEM "../document.dtd">
+<documento>
+    <typo>Traductiones</typo>
+    <data>20180104</data>
+    <incatenar>
+        <vade>http://interlingua.pedroruizhidalgo.es/documento/platero_2</vade>
+        <veni>http://interlingua.pedroruizhidalgo.es/documento/platero_0</veni>
+    </incatenar>
+    <taxinomia>La elegia</taxinomia>
+    <autores>
+        <autor>
+            <nomine>Pedro Ruiz Hidalgo</nomine>
+            <retes>@pedroruizhidalg</retes>
+            <retes>interlingua@pedroruizhidalgo.es</retes>
+        </autor>
+    </autores>
+    <contento>
+        <titulo>Platero e io</titulo>
+        <imagine>https://interlingua.pedroruizhidalgo.es/assets/image/platero_1.jpg</imagine>
+        <texto>Platero es parve, hirsute, suave; tanto blande pro foras, que on dicerea tote de coton, que no habe ossos. Solo le speculos de lignite polite de su oculos es dur qual duo coleopteros de vitro nigre.</texto>
+        <texto>Io lo lassa distaccate, e on va al prato, e ille caressa tepidemente con su muso, racente a pena, le floretto rosee, celeste, e rubie... Io appella lo dulcemente, “Platero?”, e veni a me con un trotto contente que il pare que on ride, en io non sape que tintinnar ideal...</texto>
+        <texto>Ille mangia quanto io le da. Habe gusto pro le oranges mandarina, le uvas moscatel(1), tote de ambra, le ficos morate, con lor crystallin gutta de melle.</texto>
+        <texto>Ille es tenere e caressabile eque un puero, eque un puera...; sed forte e sic como un petra. Quando io passa, super ille, le dominicas, pro le ultime vicos del village, le homines del campo vestite sin macula, e pausatemente, on permane vidente lo.</texto>
+        <texto>— Il habe aciero...</texto>
+        <texto>Ille habe aciero. Aciero e argenta de luna, al mesmo tempore..</texto>
+        <texto>(1) N.T. Moscatel es un typo de uva blanc o purpuree. Lor origene possibilemente es de Alexandria. Iste typo de uva es multo appreciate en Andalusia ubi ha multe plantationes. On obtene un vino del mesme nomine multo sucrate que iste traductor recommenda, cautemente, al lector.</texto>
+        
+    </contento>
+</documento>

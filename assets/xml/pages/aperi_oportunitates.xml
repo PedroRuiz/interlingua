@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documento SYSTEM "../document.dtd">
+<documento>
+    <typo>web</typo>
+    <data>20180103</data>
+    <incatenar>
+        <vade></vade>
+        <veni>http://interlingua.pedroruizhidalgo.es</veni>
+    </incatenar>
+    <taxinomia>Aperi Oportunitates</taxinomia>
+    <autores>
+        <autor>
+            <nomine>Pedro Ruiz Hidalgo</nomine>
+            <retes>@pedroruizhidalg</retes>
+            <retes>interlingua@pedroruizhidalgo.es</retes>
+        </autor>
+    </autores>
+    <contento>
+        <titulo>Interlingua como instrumento de communication</titulo>
+        <imagine>https://interlingua.pedroruizhidalgo.es/assets/image/charla.jpg</imagine>
+        <texto>Interlingua como instrumento de communication pote stablir un potente nexo de communication que es appreciate in un contexto de negotios, equemente in ambito international.
+        
+        Etiam interlingua on trova interessante pro textos scientifico, quando on pretende communicar resultatos de labores de investigation.
+        
+        Altere forma, amusante, de communicar en Interlingua es participar in le plures canales de chat que il existe en Internet. Realmente, illos son locos ubi cognoscer gente.</texto>
+    </contento>
+</documento>

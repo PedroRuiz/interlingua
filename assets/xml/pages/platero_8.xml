@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documento SYSTEM "../document.dtd">
+<documento>
+    <typo>Traductiones</typo>
+    <data>20180107</data>
+    <incatenar>
+        <vade>http://interlingua.pedroruizhidalgo.es/documento/platero_9</vade>
+        <veni>http://interlingua.pedroruizhidalgo.es/documento/platero_7</veni>
+    </incatenar>
+    <taxinomia>Le flor del cammino</taxinomia>
+    <autores>
+        <autor>
+            <nomine>Pedro Ruiz Hidalgo</nomine>
+            <retes>@pedroruizhidalg</retes>
+            <retes>interlingua@pedroruizhidalgo.es</retes>
+        </autor>
+    </autores>
+    <contento>
+        <titulo>Platero e io</titulo>
+        <imagine>https://interlingua.pedroruizhidalgo.es/assets/image/platero_8.jpg</imagine>
+        <texto>Que pure, Platero, e que belle es le flor del cammino! Passa a su latere tote le grege—le tauros, le capras, le pullos, le homines—, e illa, tanto tenere e tanto debile, continua erecte, mauve e diaphane, en su triste clausura, sin contaminar se de impuressa alicuna.
+
+Tote le dies, quando, al comenciar le scarpa, nos prende le via directissime, tu ha reguardate lo en su posto verde. Jam habe a su latere un ave, que on altia —pro que?— al approximar nos; o esse plen qual un breve calice, del aqua clar de un nube de estive; jam consenti le attacco de un ape, o le volubile adorno de un papilion.
+
+Ista flor vivera paucos dies, Platero, sed su memoria habe de esser eterne. Essera su viver como un die de primavera, como un primavera de mi vita. Guai! Que poterea io dar al autumno, Platero, a cambio de ista flor divin, pro que ille esserea, quotidianmente, le exemplo simple de le nostre?
+        </texto>
+    </contento>
+</documento>

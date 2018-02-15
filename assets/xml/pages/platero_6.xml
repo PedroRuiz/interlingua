@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documento SYSTEM "../document.dtd">
+<documento>
+    <typo>Traductiones</typo>
+    <data>20180106</data>
+    <incatenar>
+        <vade>http://interlingua.pedroruizhidalgo.es/documento/platero_7</vade>
+        <veni>http://interlingua.pedroruizhidalgo.es/documento/platero_5</veni>
+    </incatenar>
+    <taxinomia>ANGELUS!</taxinomia>
+    <autores>
+        <autor>
+            <nomine>Pedro Ruiz Hidalgo</nomine>
+            <retes>@pedroruizhidalg</retes>
+            <retes>interlingua@pedroruizhidalgo.es</retes>
+        </autor>
+    </autores>
+    <contento>
+        <titulo>Platero e io</titulo>
+        <imagine>https://interlingua.pedroruizhidalgo.es/assets/image/platero_6.jpg</imagine>
+        <texto>Reguarda, Platero, quante rosas cade pro tote locos: rosas blau, rosas blanc, sin color... On poterea dicer que le celo disface se in rosas. Vide como on plena me de rosas le fronte, le spatulas, le manos... Que facera io con tante rosas?
+
+Tu sape, forsan, de ubi es iste blande flora, que io no sape de ubi es, que molli, cata die, le paisage e lassa lo dulcemente rosate, blanc e celeste—, plus roses, plus roses—, como un quadro de Fra Angelico, qui picturava le celo genuflecte?
+
+Del septe galerias del Paradiso on crederea il que jecta rosas al terra. Qual in un nivate tepide e vagemente colorate, permane se le rosas in le turre, in le tegulate, in le arbores. Reguarda: tote le forte on face, con lor ornamento, delicate. Plus rosas, plus rosas, plus rosas...
+
+Il pare, Platero, durante que sona le Angelus1, que iste vita nostre perde fortia quotidian, e que altere fortia de interior, plus alte, plus constante e plus pur, il face que toto, como en fontanas de gratia, on altia al stellas, que on accende jam inter rosas... Plus rosas... Le oculos tue, que tu non vide, Platero, e que altia mansuetemente al celo, esse duo belle rosas.
+        </texto>
+    </contento>
+</documento>

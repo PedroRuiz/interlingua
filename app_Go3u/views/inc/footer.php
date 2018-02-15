@@ -1,0 +1,5 @@
+    <?php $tz=new DateTimeZone('Europe/madrid');?>
+    <footer style="background-color: #FFF; position:fixed;height: 50px;bottom:0;width: 100%">
+        <p class="pull-xs-right"><a href="#">Vade al initio</a></p>
+        <p>&copy; <?= (date('Y')<=2017) ? '2017 ' : "2017 - ".date('Y').' ';?> <a href="https://pedroruizhidalgo.es">Pedro Ruiz Hidalgo</a> · <a href="https://twitter.com/pedroruizhidalg">@pedroruizhidalg</a>; &middot; <a href="https://interlingua.pedroruizhidalgo.es/documento/politica_de_privacitate">Uso y Privacitate</a> <small>(Time zone de iste projecto: <strong><?=date_default_timezone_get();?></strong><a href="https://www.google.es/maps/@40.4,-3.68333,8.5z" target="_blank"> Latitude: <?=$tz->getLocation()['latitude'];?>, Longitude:  <?=$tz->getLocation()['longitude'];?>)</a></small></p>
+      </footer>

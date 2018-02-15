@@ -1,0 +1,38 @@
+<!-- una DTD para documento de Interlingua -->
+<!ELEMENT documento (typo,designo?,data,incatenar?,taxinomia,autores,contento*) >
+    
+    <!ELEMENT typo              (#PCDATA)>                      <!-- declaration del typo de documento p.i.: traducction,information,linguistic, etc. -->
+    
+	<!ELEMENT designo           (#PCDATA)>                      <!-- schema de pagina, per defecto 'pages' -->
+	
+    <!ELEMENT data              (#PCDATA)>                      <!-- data expresate como aaaa-mm-dd -->
+    
+    <!ELEMENT incatenar         (vade*,veni*)?>                 <!-- OPTATIVE declarate solmente si iste documento on incatena con alteres -->
+        <!ELEMENT vade          (#PCDATA)>                      <!-- documento al que vade -->
+        <!ELEMENT veni          (#PCDATA)>                      <!-- documento del que veni -->
+    
+    <!ELEMENT taxinomia         (#PCDATA)>                      <!-- un description del contento del documento -->
+    
+    <!ELEMENT autores           (autor?)*>                      <!-- OPTATIVE autores (NO ON POTE REPETER)-->
+        <!ELEMENT autor	        (nomine,retes*)>                 <!-- cata un del autores -->
+            <!ELEMENT nomine 		(#PCDATA)>                  <!-- nomine del autor -->
+            <!ELEMENT retes 		(#PCDATA)>                  <!-- un per cata retes social del autor ON POTE REPETER, p.i. email, twitter, facebook, etc -->
+    
+    <!ELEMENT contento          (titulo,imagine,texto*)>  <!-- declaration del contento (NO ON POTE REPETER) -->
+		<!ELEMENT menu			(menunomine,menudata)*>
+			
+        <!ELEMENT titulo        (#PCDATA)>                      <!-- titulo (NO ON POTE REPETER)-->
+        <!ELEMENT imagine       (#PCDATA)>                      <!-- imagine (NO ON POTE REPETER)-->
+		<!ELEMENT texto       (#PCDATA)>                      
+<![IGNORE[	
+		<!ELEMENT texto 		(#PCDATA|nigre|cursiva|centrar|textitulo|teximagine|parve|ligamine)*>
+			<!ELEMENT nigre		 	(#PCDATA)> 		
+    		<!ELEMENT cursiva	 	(#PCDATA)>
+    		<!ELEMENT centrar		(#PCDATA)>
+			<!ELEMENT textitulo		(#PCDATA)>
+			<!ELEMENT teximagine	(#PCDATA)>    	
+			<!ELEMENT parve			(#PCDATA)>	
+			<!ELEMENT ligamine		(direction,textoligamine)>
+				<!ELEMENT direction		(#PCDATA)>
+				<!ELEMENT textoligamine	(#PCDATA)>
+]]>

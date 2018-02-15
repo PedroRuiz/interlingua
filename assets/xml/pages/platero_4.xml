@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documento SYSTEM "../document.dtd">
+<documento>
+    <typo>Traductiones</typo>
+    <data>20180105</data>
+    <incatenar>
+        <vade>http://interlingua.pedroruizhidalgo.es/documento/platero_5</vade>
+        <veni>http://interlingua.pedroruizhidalgo.es/documento/platero_3</veni>
+    </incatenar>
+    <taxinomia>Papillones blanc</taxinomia>
+    <autores>
+        <autor>
+            <nomine>Pedro Ruiz Hidalgo</nomine>
+            <retes>@pedroruizhidalg</retes>
+            <retes>interlingua@pedroruizhidalgo.es</retes>
+        </autor>
+    </autores>
+    <contento>
+        <titulo>Platero e io</titulo>
+        <imagine>https://interlingua.pedroruizhidalgo.es/assets/image/platero_4.jpg</imagine>
+        <texto>Le nocte cade, jam nebulose e purpura. Vage claritates mauve e verde supervive post le turre del ecclesia. El cammino altia, plen de umbras, plen de campanettas, de fragrantia de herba, de cantos, de languor, e de desiro ardente. Subitemente, un obscur homine, con un bonetto e un puncta, rube un instante le fede face pro le luce de un cigarro, bassa ad nos de un cavo miserabile. Perdite inter le saccos de carbon. Platero on espaventa.
+
+— Vade a alcun cosa?
+
+— Vide usted... Papiliones blanc...
+
+Le homine vole figer su puncta de ferro en le stoffa de cargar, e io evita lo. Io aperi le stoffa e ille vide nihil. E le nutrimento ideal passa, libere e ingenue, sin pagar tributo a le Consumptiones...</texto>
+        
+    </contento>
+</documento>

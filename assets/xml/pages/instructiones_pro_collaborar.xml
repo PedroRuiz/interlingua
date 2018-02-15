@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documento SYSTEM "../document.dtd">
+<documento>
+    <typo>Web</typo>
+    <data>20180118</data>
+    <incatenar>
+        <veni>https://interlingua.pedroruizhidalgo.es</veni>
+    </incatenar>
+    <taxinomia>Instrucctiones pro collaborar</taxinomia>
+    <autores>
+        <autor>
+            <nomine>Pedro Ruiz Hidalgo</nomine>
+            <retes>interlingua@pedroruizhidalgo.es</retes>
+            <retes>@pedroruizhidalg</retes>
+        </autor>
+    </autores>
+    <contento>
+        <titulo>Collaborar</titulo>
+        <imagine>https://interlingua.pedroruizhidalgo.es/assets/image/collaborar.jpg</imagine>
+        <texto>/titBasse constructiontit/ Nos es aperte a qualcunque collaboration que es relationate con Interlingua: contos, novelas, articulos re linguage, derivate collangs, comics, etc.
+        Nostre systema es simple. Es archivos xml que qui vole collaborar pote solicitar /link"mailto:interlingua@pedroruizhidalgo.es"/l_collaborar pote solicitar hicl_/ link/ con un email.
+        
+        /titMetalinguagetit/ Per rationes de procceso computational, que non essera commentates, nostre archivo xml no pote continer marcas de html. Sed nos ha disveloppate un metalinguage que simula iste marcas e solmente pote ser usate in nostre systema.
+        
+        /titMarcastit/ Cata un del marcas ha un apertura "/marca" e clausura "marca/":
+        Iste marcas es:
+       'bold', pro texto /boldnigrebold/.
+		'em', pro enphatisar con texto in /emitalicaem/.
+		'center' /centerpro centrar texto in schermo.center/
+		/tit'tit' pro titular.tit/
+		'img', pro imagine. Post iste marca le direction del imagine sera inter virguletas ".
+		'small' pro /smallparve textosmall/.
+        
+		'link', pro ligamines. Le direction del ligamine essera descripte inter virguletas. Iste marca es special. Como iste pagina es scripte in iste sistema non pote ser scribite le marcas real perque illo supone que essera proccesate.
+        pro iste exemplo de link on scribe le barra contrari, que non causara necun effecto. Marca link es assi.
+        \link"http://google.com"\l_Googlel_\ link\.
+        
+        Pulsa /link"https://interlingua.pedroruizhidalgo.es/documento/coopera"/l_coopera con nosl_/ link/.
+        </texto>
+    </contento>
+</documento>

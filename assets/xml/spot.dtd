@@ -1,0 +1,10 @@
+<!-- una DTD para carousel -->
+<!ELEMENT spots (spot+) >
+	<!ELEMENT spot (title,image,text,href,button_text)+ >
+		<!ELEMENT title	        (#PCDATA)>
+		<!ELEMENT image 		(#PCDATA)>
+		<!ELEMENT text		    (#PCDATA)>
+		<!ELEMENT href			(#PCDATA)>
+		<!ELEMENT button_text	(#PCDATA)>
+    
+    

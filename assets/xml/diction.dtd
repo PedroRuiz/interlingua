@@ -1,0 +1,6 @@
+<!-- una DTD para carousel -->
+<!ELEMENT dictionary (terminus*) >
+	<!ELEMENT terminus (interlingua,anglese)* >
+		<!ELEMENT interlingua   (#PCDATA)>
+		<!ELEMENT anglese 		(#PCDATA)>
+		

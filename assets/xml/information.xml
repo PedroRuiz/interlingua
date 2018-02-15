@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE information SYSTEM "information.dtd">
+
+<information>
+    
+    <lingua>
+        <namelingua>es</namelingua>
+        <capite>¿Te interesa la comunicación internacional en Europa, Norteamérica, Sudamérica, Australia o grandes partes de África?</capite>
+        <capite>¿Quieres aprender una lengua pero piensas que es demasiado difícil?</capite>
+        <capite>¿Encuentras las lenguas interesantes en general?</capite>
+        <capite>¡Toma en consideración interlingua, instrumento moderno de comunicación internacional!</capite>
+        <text>
+            <title>Paneuropea.</title>
+            <paragrapho>Interlingua utiliza palabras extraídas de las siguientes lenguas: italiano, español/portugués, francés, inglés, alemán y ruso.</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-europa.png</image>
+        </text>
+        <text>
+            <title>Científica.</title>
+            <paragrapho>Interlingua es el resultado de una gran cooperación entre lingüísticas y filólogos europeos y americanos. Ellos han extraído metódicamente el vocabulario internacional y común de las principales lenguas europeas.</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-destillation.png</image>
+        </text>
+        <text>
+            <title>Natural</title>
+            <paragrapho>Ningún aspecto de interlingua es artificial o inventado. Cada característica se basa en al menos tres lenguas de origen europeo. Interlingua: ¡simplificación sin artificialidad!</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-palmas.png</image>
+        </text>
+        <text>
+            <title>Práctica</title>
+            <paragrapho>Millones de personas comprenden interlingua a primera vista, especialmente los hablantes de lenguas neolatinas comprenden interlingua inmediatamente y casi sin esfuerzo. ¡Ideal para tus viages!</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-conversation.png</image>
+        </text>
+        <text>
+            <title>Fácil</title>
+            <paragrapho>La gramática de interlingua es muy uniforme, y la pronunciación de las palabras sigue reglas estrictas y simples. Con interlingua, ninguna lista infinita de excepciones e irregularidades... ¡Aprender interlingua es agradable!</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-facile.png</image>
+        </text>
+        <text>
+            <title>Pedagógica</title>
+            <paragrapho>Con interlingua, aprendes casi automáticamente muchas palabras extranjeras y cultas de tu lengua materna. Interlingua es la base ideal para tus posteriores estudios lingüísticos.</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-libros.png</image>
+        </text>
+        <text>
+            <title>Neutral</title>
+            <paragrapho>Interlingua no es propiedad de una sola cultura o pueblo. Ningún hablante nativo tiene una ventaja injusta. Habla interlingua y pon fin a la discriminación lingüística.</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-bandieras.png</image>
+        </text>
+        <text>
+            <title>"Latín moderno"</title>
+            <paragrapho>La mayoría de las palabras internacionales es de origen latín o griego. En interlingua, estas palabras internacionales toman formas prototipo o estandarizadas. El resultado es un “latín moderno” internacional y simplificado, elegante y práctico.</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-ponte.png</image>
+        </text>
+        <text>
+            <title>Divertida.</title>
+            <paragrapho>Con interlingua encontrarás una creciente comunidad internacional compuesta de personas inteligentes y originales. Nuestras conferencias son experiencias inolvidables. ¡Ven y diviértete con nosotros!¡Serás siempre bienvenido!</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-musica.png</image>
+        </text>
+        <final>INTERLINGUA es una lengua internacional que resultado de una gran cooperación de lingüistas de Europa y América. Las palabras de interlingua están basadas en las palabras internacionales del latino, griego y de otras lenguas en italiano, francés, español/portugués, inglés, alemán y ruso. La gramática de interlingua es simple y fácil. La pronunciación es regular y europea continental.</final>
+    </lingua>
+    
+    <lingua>
+        <namelingua>en</namelingua>
+        <capite>Are you interested in international communication in Europe, North and South America, Australia, or large parts of Africa? Do you want to learn a language, but think it would be too difficult? Are you interested in languages in general? Consider/learn Interlingua, a modern tool for international communication!</capite>
+        
+        <text>
+            <title>Pan-European.</title>
+            <paragrapho>Interlingua uses words drawn from the following languages: Italian, Spanish/Portuguese, French, English, German, and Russian.</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-europa.png</image>
+        </text>
+        <text>
+            <title>Scientific.</title>
+            <paragrapho>Interlingua is the result of an extensive cooperation of European and American linguists. They methodically extracted an international vocabulary common to the major languages of Europe.</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-destillation.png</image>
+        </text>
+        <text>
+            <title>Natural.</title>
+            <paragrapho>No aspect of Interlingua is artificial or invented. Every characteristic is based on at least three languages of European origin. Interlingua: simplification without artificiality!</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-palmas.png</image>
+        </text>
+        <text>
+            <title>Practical</title>
+            <paragrapho>Millions understand Interlingua "at first sight". Speakers of Romance languages especially understand Interlingua immediately and almost effortlessly. Ideal for traveling!</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-conversation.png</image>
+        </text>
+        <text>
+            <title>Easy</title>
+            <paragrapho>The grammar of Interlingua is very uniform, and its pronunciation follows strict and simple rules. With Interlingua, there are no endless lists of exceptions and irregularities ... learning Interlingua is a pleasure!</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-facile.png</image>
+        </text>
+        <text>
+            <title>Educational</title>
+            <paragrapho>With Interlingua, you learn almost automatically many "foreign" or "learned" words in your own native language. Interlingua is an ideal basis for further study of languages.</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-libros.png</image>
+        </text>
+        <text>
+            <title>Neutral</title>
+            <paragrapho>Interlingua isn't the property of a single culture or people. No native speaker has an unfair advantage. Speak Interlingua and put an end to linguistic discrimination.</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-bandieras.png</image>
+        </text>
+        <text>
+            <title>"Modern Latin"</title>
+            <paragrapho>Most international words are of Latin or Greek origin. In Interlingua, these international words take prototypical and standardized form. The result is a "modern Latin", international and simplified, elegant and practical.</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-ponte.png</image>
+        </text>
+        <text>
+            <title>Fun.</title>
+            <paragrapho>With Interlingua you encounter a growing community full of intelligent and original people. Our conferences are unforgettable experiences. Come and have fun with us! We welcome you!</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-musica.png</image>
+        </text>
+        <final>INTERLINGUA is an international language that was the result of an extensive cooperation of linguists from Europe and America. The words of Interlingua are based on international words that come from Latin, Greek and other languages, and exist in Italian, French, Spanish/Portuguese, English, German, and Russian. The grammar of Interlingua is simple and easy. The pronounciation is regular and continental European.
+
+For more information, please contact:
+British Interlingua Society
+Brian C. Sexton
+Flat 14 Ventnor Court
+Wostenholm Road
+Sheffield S7 1LB
+United Kingdom
+Tel: +44-114-2582931 </final>
+    </lingua>
+    
+    <lingua>
+        <namelingua>ar</namelingua>
+        <capite>هل تهمكم الاتصالات الدولية في أوربا , اميركا الشمالية و الجنوبية , أوستراليا , و أجزاء كبيرة من أفريقيا ؟ تريدون تعلم إحدى اللغات و لكنكم تعتقدون أنها صعبة جدا ؟ تجدون , بشكل عام , أن اللغات الأجنبية مثيرة للإهتمام ؟ ما عليكم إلا أن تأخذوا بعين الاعتبار إنترلينغوا , الطريقة الحديثة للاتصالات الدولية .</capite>
+        <text>
+            <title>عابرة لأوربا.</title>
+            <paragrapho>إنترلينغوا تستعمل كلمات مستخرجة من اللغة الإيطالية , الإسبانية , البرتغالية , الفرنسية , الانكليزية , الألمانية و الروسية . </paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-europa.png</image>
+        </text>
+        <text>
+            <title>علمية.</title>
+            <paragrapho>تعتبر إنترلينغوا نتنيجة تعاون على نطاق واسع بين لغويين و علماء لغات أوربيين و أميركيين , و اللذين اختاروا بشكل منهجي , الأبجدية العالمية و المشتركة بين أهم اللغات الأوربية .</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-destillation.png</image>
+        </text>
+        <text>
+            <title>طبيعية </title>
+            <paragrapho>إنترلينغوا لا تحتوي على مكونات اصطناعية أو مخترعة . تعتمد كل واحدة من صفاتها على الأقل على ثلاث لغات أوربية . لاحظ أن ـــ إنترلينغوا هي مثال السهولة بدون تصنع . </paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-palmas.png</image>
+        </text>
+        <text>
+            <title>عملية </title>
+            <paragrapho>يفهم ملايين الناس إنترلينغوا " لأول وهلة " , و بشكل خاص متحدثو اللغات اللاتينية الجديدة , اللذين يفهمون فورا إنترلينغوا . و عليه , فما هو الأكثر مناسبة لرحلاتك ؟ </paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-conversation.png</image>
+        </text>
+        <text>
+            <title>سهلة </title>
+            <paragrapho>قواعد إنترلينغوا موحدة , و نطق الكلمات يعتمد على قواعد محددة و سهلة . تخلصنا في إنترلينغوا من قوائم الشاذات .... إنه لممتع أن تتعلم إنترلينغوا ! </paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-facile.png</image>
+        </text>
+        <text>
+            <title>تعليمية </title>
+            <paragrapho>تتعلم مع إنترلينغوا حتى بلغتك الأم و بشكل عفوي , عددا كبيرا من الكلمات " الأجنبية " , أو " سافانته " . تشكل إنترلينغوا القاعدة المثالية , لدراساتك اللغوية القادمة . </paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-libros.png</image>
+        </text>
+        <text>
+            <title>حيادية </title>
+            <paragrapho>ليست إنترلينغوا ملكية لإحدى الثقافات أو لأحد الشعوب . لن يكون لأي متكلم طبيعي أية استفادة غير مستحقة منها . باستعمال إنترلينغوا تضع حدا للتمييز اللغوي . </paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-bandieras.png</image>
+        </text>
+        <text>
+            <title>اللغة اللاتينية المعاصرة</title>
+            <paragrapho>إن مصدر معظم الكلمات العالمية هو من اللاتينية أو اليونانية , في إنترلينغوا تأخذ الكلمات العالمية شكل نموذج يعتبر مقياسا. فتصبح النتيجة " لاتينية معاصرة " , عالمية و مسهلة , لبقة و ....عملية.</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-ponte.png</image>
+        </text>
+        <text>
+            <title>مليئة بالتسلية</title>
+            <paragrapho>تلتقي عبر إنترلينغوا بمجموعات من الناس مليئة بالحيوية , مؤلفة من أشخاص أذكياء و مجددون . مداولاتنا تجارب لا تنسى . تعال و أرح نفسك معنا ! أهلا و مرحبا بك ! </paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-musica.png</image>
+        </text>
+        <final>النسخة القصيرة</final>
+        <final>إن إنترلينغوا هينتيجة تعاون كبير بين لغويين أوربيين و أميركيين . إنترلينغوا تستعمل مفردات لاتينية , و كلمات عالمية من الإيطالية , الاسبانية , البرتغالية , الفرنسية , الانكليزية , الألمانية و الروسية . قواعد إنترلينغوا موحدة و سهلة .النطق للكلمات واضح و سهل .
+
+من أجل معلومات أكثر , اضغط هنا ! </final>
+    </lingua>
+    
+    <lingua>
+        <namelingua>eu</namelingua>
+        <capite> Interesik al duzu nazioarteko komunikazioan Europan, Ipar eta Hego Ameriketan, Australian edo Afrikako eremu handietan?</capite>
+        <capite>Ikasi nahi al duzu hizkuntza bat, baina uste duzu hori zaila dela?</capite>
+        <capite>Gertatzen al zaizkizu interesgarri hizkuntzak orokorki?</capite>
+        <capite>Har ezazu kontuan eta ikas Interlingua, nazioarteko komunikaziorako tresna modernoa!</capite>
+        <text>
+            <title>Paneuroparra.</title>
+            <paragrapho>Interlinguak ondoko hizkuntzetatik idokitako hitzak erabiltzen ditu: italiera, espainiera/portugesa, frantsesa, ingelesa, alemana eta errusiera.</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-europa.png</image>
+        </text>
+        <text>
+            <title>Zientifikoa.</title>
+            <paragrapho>Interlingua europar eta amerikar hizkuntzalari askoren lankidetza handi baten emaitza da. Haiek metodikoki idoki dute europar hizkuntza nagusiei erkide eta nazioartekoa den hiztegia.</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-destillation.png</image>
+        </text>
+        <text>
+            <title>Naturala.</title>
+            <paragrapho>Interlinguaren alderdi bat ere ez da artifiziala edo asmatua. Ezaugarri guztiak europar etorkiko hiru hizkuntzatan gutxienez oinarriturik daude. Interlingua: artifizialtasunik gabeko sinplifikazioa!</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-palmas.png</image>
+        </text>
+        <text>
+            <title>Praktikoa</title>
+            <paragrapho>Milioika pertsonak Interlingua "begiratu batean" ulertzen dute. Bereziki hizkuntza erromantzeen hiztunek Interlingua berehala ulertzen dute, eta ia ahaleginik egin gabe. Ezin hobea zure bidaietarako!</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-conversation.png</image>
+        </text>
+        <text>
+            <title>Erraza.</title>
+            <paragrapho>Interlinguaren gramatika oso beti-batekoa da eta hitzen ahoskera arau hertsi eta sinpleen araberakoa da. Interlinguarekin salbuespen eta irregulartasunez betetako zerrenda amaigaberik ez... Interlingua ikastea atsegina da oso!</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-facile.png</image>
+        </text>
+        <text>
+            <title>Pedagogikoa.</title>
+            <paragrapho>Con interlingua, aprendes casi automáticamente muchas palabras extranjeras y cultas de tu lengua materna. Interlingua es la base ideal para tus posteriores estudios lingüísticos.</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-libros.png</image>
+        </text>
+        <text>
+            <title>Neutrala.</title>
+            <paragrapho>Interlingua ez da kultura edo herri bakar baten jagegoa. Jaiotzetiko ezein ere hiztunek ez du abantaila bidegaberik. Hitzegin ezazu Interlingua eta eman iezaiozu amaiera hizkuntza bereizkeriari.</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-bandieras.png</image>
+        </text>
+        <text>
+            <title>"Latín modernoa"</title>
+            <paragrapho>Nazioarteko hitz gehienak latin edo grekotikoak dira. Interlinguan, nazioarteko hitz hauek forma prototipikoak eta estandarizatuak hartzen dituzte. Ondorioa "latin moderno" bat da nazioartekoa eta sinplifikatua, dotorea eta praktikoa.</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-ponte.png</image>
+        </text>
+        <text>
+            <title>Jostagarria.</title>
+            <paragrapho>Interlinguarekin zeuk pertsona adimendun eta originalez beteriko eta handituz doan erkidego bat aurkituko duzu. Gure konferentziak ezin ahaztuzko esperientziak dira. Etor zaitez eta josta gurekin! Ongi etorri!</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-musica.png</image>
+        </text>
+        <final>Interlingua nazioarteko hizkuntza bat da zein izan baitzen Europa eta Amerikako hizkuntzalari askoren lankidetzaren emaitza. Interlinguako hitzak latin, greko eta beste hizkuntzetatiko nazioarteko hitzetan oinarriturik daude existitzen direnak italieran, frantsesean, espainieran/portugesean, alemanean eta errusieran. Interlinguaren gramatika sinple eta erraza da. Ahoskera erregularra eta kontinental europarra da.</final>
+    </lingua>
+    
+    <lingua>
+        <namelingua>bg</namelingua>
+        <capite>Интересува ли ви възможността да общувате с различни страни в Европа, Северна и Южна Америка, Африка или Австралия?</capite>
+        <capite>Бихте желали да научите чужд език, но смятате, че е твърде трудно?</capite>
+        <capite>Интересувате ли се от езици?</capite>
+        <capite>Тогава научете интерлингва – модерно средство за международно общуване!</capite>
+        <text>
+            <title>Европейски.</title>
+            <paragrapho>Интерлингва използва думи, извлечени от следните езици: италиански, испански, португалски, френски, английски немски и руски.</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-europa.png</image>
+        </text>
+        <text>
+            <title>Научен.</title>
+            <paragrapho>Интерлингва е резултат от сътрудничество между европейски и американски лингвисти и филолози, които методично са извлекли международния речников състав, общ за най-разпространените европейски езици.</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-destillation.png</image>
+        </text>
+        <text>
+            <title>Естествен</title>
+            <paragrapho>Нито една от характеристиките на интерлингва не е изкуствена или измислена. Всяка една от тях е основана на поне три европейски езика. Интерлингва е опростяване без изкуствени елементи.</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-palmas.png</image>
+        </text>
+        <text>
+            <title>Практичен..</title>
+            <paragrapho>Милиони хора разбират интерлингва без подготовка. Особено хората, които говорят романски езици разбират интерлингва веднага и почти без усилия. Идеален за вашето пътуване!</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-conversation.png</image>
+        </text>
+        <text>
+            <title>Лесен.</title>
+            <paragrapho>Граматиката на интерлингва е съвсем проста, а произношението следва прости и строги правила. В интерлингва няма безкрайни списъци с изключения и неправилности... Да се научи интерлингва е приятно!</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-facile.png</image>
+        </text>
+        <text>
+            <title>Педагогичен.</title>
+            <paragrapho>С интерлингва научавате почти автоматично много чужди и „научни” думи от собствения си език.</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-libros.png</image>
+        </text>
+        <text>
+            <title>Неутрален.</title>
+            <paragrapho>Интерлингва не е собственост на една-единствена култура или на един-единствен народ. Никое лице няма несправедливо предимство. Говорете интерлингва и сложете край на езиковата дискриминация.</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-bandieras.png</image>
+        </text>
+        <text>
+            <title>"Модерният латински".</title>
+            <paragrapho>Мнозинството международни думи са от латински или гръцки произход. В интерлингва тези международни думи имат стандартизирани форми, близки до прототипа. Резултетът е един „модерен латински”, който е международен и прост, елегантен и практичен.</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-ponte.png</image>
+        </text>
+        <text>
+            <title>Забавен.</title>
+            <paragrapho>Con interlingua encontrarás una creciente comunidad internacional compuesta de personas inteligentes y originales. Nuestras conferencias son experiencias inolvidables. ¡Ven y diviértete con nosotros!¡Serás siempre bienvenido!</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-musica.png</image>
+        </text>
+        <final>Накратко</final>
+        <final>Международният език ИНТЕРЛИНГВА е резултат от обширно сътрудничество между европейски и американски езиковеди. Думите в интерлингва са основани на международни думи от летински, гръцки и други езици като италиански, френски, испански, португалски, английски, руски или немски. Граматиката на интерлингва е проста и лесна. Произношението е правилно и се съобразява с традициите на езиците в Европа.</final>
+    </lingua>
+    
+    <lingua>
+        <namelingua>cat</namelingua>
+        <capite>T'interessa la comunicació internacional a Europa, Nordamèrica, Sudamèrica, Austràlia o grans parts d'Àfrica?</capite>
+        <capite>Vols aprendre una llengua però penses que és massa difícil?</capite>
+        <capite>T'interesses per les llengües en general?</capite>
+        <capite>Considera i aprèn interlingua, instrument modern de comunicació internacional</capite>
+        <text>
+            <title>Paneuropea.</title>
+            <paragrapho>Interlingua utilitza paraules extretes de les següents llengües: italià, espanyol/portuguès, francès, anglès, alemany i rus.</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-europa.png</image>
+        </text>
+        <text>
+            <title>Científica.</title>
+            <paragrapho>Interlingua és el resultat d'una gran cooperació entre lingüistes i filòlegs europeus i americans. Van extreure metòdicamente el vocabulari internacional i comú de les principals llengües europees.</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-destillation.png</image>
+        </text>
+        <text>
+            <title>Natural.</title>
+            <paragrapho>Cap aspecte d'interlingua és artificial o inventat. Cada característica es basa en almenys tres llengües d'origen europeu. Interlingua: simplificació sense artificialitat!</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-palmas.png</image>
+        </text>
+        <text>
+            <title>Pràctica</title>
+            <paragrapho>Milions de persones comprenen interlingua a primera vista; especialment els parlants de llengües neollatines comprenen interlingua immediatament i gairebé sense esforç. Ideal per als teus viatges!</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-conversation.png</image>
+        </text>
+        <text>
+            <title>Fàcil.</title>
+            <paragrapho>La gramàtica d'interlingua és molt uniforme, i la pronunciació dels mots segueix regles estrictes i senzilles. Amb interlingua, cap llista infinita d'excepcions i irregularitats... Aprendre interlingua és agradable!</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-facile.png</image>
+        </text>
+        <text>
+            <title>Pedagògica.</title>
+            <paragrapho>Amb interlingua, aprens quasi automàticament moltes paraules estrangeres i cultes de la teva llengua materna. Interlingua és la base ideal per als teus posteriors estudis lingüístics.</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-libros.png</image>
+        </text>
+        <text>
+            <title>Neutral.</title>
+            <paragrapho>Interlingua no és propietat d'una sola cultura o poble. Cap parlant nadiu té un avantatge injust. Parla interlingua i posa fi a la discriminació lingüística.</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-bandieras.png</image>
+        </text>
+        <text>
+            <title>"El llatí modern".</title>
+            <paragrapho>La majoria dels mots internacionals és d'origen llatí o grec. En interlingua, aquests mots internacionales prenen formes prototípiques o estandarditzades. El resultat és un “llatí modern” internacional i simplificat, elegant i pràctic.</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-ponte.png</image>
+        </text>
+        <text>
+            <title>Divertida.</title>
+            <paragrapho>Amb interlingua trobaràs una creixent comunitat internacional composta de persones inteligents i originals. Les nostres conferències són experiències inoblidables. Vine i diverteix-te amb nosaltres! Seràs sempre benvingut!</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-musica.png</image>
+        </text>
+        <final>Version breve: </final>
+        <final>INTERLINGUA és una llengua internacional que fou el resultat d'una gran cooperació de lingüistas d'Europa i Amèrica. Els mots d'interlingua es basen en els mots internacionals del llatí, grec i d'altres llengües que es retroben en italià, francès, espanyol/portuguès, anglès, alemany i rus. La gramàtica d'interlingua és senzilla i fácil. La pronunciació és regular i europea continental.</final>
+    </lingua>
+    
+    <lingua>
+        <namelingua>zh_hant</namelingua>
+        <capite>你對於穿梭在歐洲、南北美洲、澳洲或非洲大陸的國際交流有興趣嗎？ </capite>
+        <capite>你想學習語文，但又覺得很困難嗎？ </capite>
+        <capite>你對語言方面有興趣嗎？ </capite>
+        <capite>你可以考慮／學習 Interlingua，這是一個帶領你進入國際交流領域的現代化工具！ </capite>
+        <text>
+            <title>Interlingua 是:</title>
+            <paragrapho>泛歐洲化 Interlingua 是使用下列語文所組成：義大利文、西班牙文／葡萄牙文、法文、英文、德文和俄羅斯文。 </paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-europa.png</image>
+        </text>
+        <text>
+            <title>科學化</title>
+            <paragrapho>Interlingua是由歐美各國語文學家們廣泛合作的成果。他們詳細的彙整出一份，國際字彙常用於各主要歐洲語言。</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-destillation.png</image>
+        </text>
+        <text>
+            <title>自然性</title>
+            <paragrapho>Interlingua絕無任何內容是人為或自創的。每一種性質都是根據至少三種原創歐洲語文所組成。Interlingua：單純而非憑空捏造。</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-palmas.png</image>
+        </text>
+        <text>
+            <title>實用性 </title>
+            <paragrapho>許許多多的人一接觸即能熟悉 Interlingua，講拉丁語系的人，尤其能立即和輕鬆的理解Interlingua。適合旅行隨身攜帶！ </paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-conversation.png</image>
+        </text>
+        <text>
+            <title>簡易</title>
+            <paragrapho>Interlingua 的文法十分一致，其發音更是以嚴謹和單純的規則而定。使用Interlingua你將不再有數不完的例外和不規則語句．．．學習Interlingua是個愉快的過程！</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-facile.png</image>
+        </text>
+        <text>
+            <title>教育性質</title>
+            <paragrapho>使用Interlingua你幾乎是自動學到許多「外語」或「學習」到你自己母語的生字。Interlingua是適合你準備深造語文的基礎。</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-libros.png</image>
+        </text>
+        <text>
+            <title>中立</title>
+            <paragrapho>Interlingua並非任何文化或種族的財產，也沒有任何人的母語會取得不公平的優勢。開始使用Interlingua來結束語言歧視。</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-bandieras.png</image>
+        </text>
+        <text>
+            <title>『現代拉丁文』 </title>
+            <paragrapho>現今世上絕大部分的語種都是出自於拉丁或希臘。 Interlingua中這些各國語文是以典型和標準的形式所呈現。這就衍生出具有國際化、簡易、優美及實用的「現代拉丁文」。</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-ponte.png</image>
+        </text>
+        <text>
+            <title>樂趣 </title>
+            <paragrapho>加入Interlingua你將會置身於一個加速成長並充滿智慧及獨特人群的群組中。我們的研討會將是個難忘的經驗，來和我們共享這份樂趣吧！我們誠摯地歡迎你！</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-musica.png</image>
+        </text>
+        <final>Version breve / 總結</final>
+
+        <final>INTERLINGUA 是個國際語言，由歐美各國語文學家們廣泛合作的成果。</final>
+        <final>Interlingua的文字是由以下語種所組成，拉丁、希臘和其他語文，並存在於義大利文、法文、西班牙文／葡萄牙文、英文、德文和俄羅斯文。</final>
+        <final>Interlingua的文法單純且簡單，發音規律都遵照歐洲大陸語法。 </final>
+    </lingua>
+    
+    <lingua>
+        <namelingua>zh_hans</namelingua>
+        <capite>你对于穿梭在欧洲、南北美洲、澳洲或非洲大陆的国际交流有兴趣吗？ </capite>
+        <capite>你想学习语文，但又觉得很困难吗？ </capite>
+        <capite>你对语言方面有兴趣吗？ </capite>
+        <capite>你可以考虑／学习 Interlingua，这是一个带领你进入国际交流领域的现代化工具！ </capite>
+        <text>
+            <title>泛欧洲化 </title>
+            <paragrapho>泛Interlingua 是下列语文所组成：意大利文、西班牙文／葡萄牙文、法文、英文、德文和俄罗斯文。 </paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-europa.png</image>
+        </text>
+        <text>
+            <title>科学化 </title>
+            <paragrapho>Interlingua是由欧美各国语文学家们广泛合作的成果。他们详细的汇整出一份，国际字汇常用于各主要欧洲语言。 </paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-destillation.png</image>
+        </text>
+        <text>
+            <title>自然性 </title>
+            <paragrapho>Interlingua绝无任何内容是人为或自创的。每一种性质都是根据至少三种原创欧洲语文所组成。Interlingua：单纯而非凭空捏造。 </paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-palmas.png</image>
+        </text>
+        <text>
+            <title>实用性 </title>
+            <paragrapho>许许多多的人一接触即能熟悉 Interlingua，讲拉丁语系的人，尤其能立即和轻松的理解Interlingua。适合旅行随身携带！ </paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-conversation.png</image>
+        </text>
+        <text>
+            <title>简易 </title>
+            <paragrapho>Interlingua的文法十分一致，其发音更是以严谨和单纯的规则而定。使用Interlingua你将不再有数不完的例外和不规则语句．．．学习Interlingua是个愉快的过程！ </paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-facile.png</image>
+        </text>
+        <text>
+            <title>教育性质</title>
+            <paragrapho>使用Interlingua你几乎是自动学到许多「外语」或「学习」到你自己母语的生字。Interlingua是适合你准备深造语文的基础。 </paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-libros.png</image>
+        </text>
+        <text>
+            <title>中立</title>
+            <paragrapho>Interlingua并非任何文化或种族的财产，也没有任何人的母语会取得不公平的优势。开始使用Interlingua来结束语言歧视。 </paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-bandieras.png</image>
+        </text>
+        <text>
+            <title>『现代拉丁文』 </title>
+            <paragrapho>现今世上绝大部分的语种都是出自于拉丁或希腊。 Interlingua中这些各国语文是以典型和标准的形式呈现。这就衍生出具有国际化、简易、优美及实用的「现代拉丁文」。 </paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-ponte.png</image>
+        </text>
+        <text>
+            <title>乐趣 </title>
+            <paragrapho>加入Interlingua你将会置身于一个加速成长并充满智能及独特人群的群组中。我们的将是个难忘的经验，来和我们共享这份乐趣吧！我们诚挚地欢迎你！ </paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-musica.png</image>
+        </text>
+        <final>Version breve / 总结</final>
+        <final>INTERLINGUA是个国际语言，由欧美各国语文学家们广泛合作的成果。Interlingua的文字是由以下语种所组成，拉丁、希腊和其它语文，并存在于意大利文、法文、西班牙文／葡萄牙文、英文、德文和俄罗斯文。Interlingua的文法单纯且简单，发音规律都遵照欧洲大陆语法。</final>
+    </lingua>
+    
+    <lingua>
+        <namelingua>da</namelingua>
+        <capite>Er du interesseret i international kommunikation i Europa, Nord- og Sydamerika, Australien eller store dele af Afrika?</capite>
+        <capite>Vil du gerne lære et sprog men synes, at det er for svært?</capite>
+        <capite>Er du generelt interesseret i sprog?</capite>
+        <capite>Overvej at lære interlingua, et moderne redskab til international kommunikation!</capite>
+        <text>
+            <title>Pan-europæisk.</title>
+            <paragrapho>Interlingua bruger ord, der er udvundet fra følgende sprog: italiensk, spansk/portugisisk, fransk, engelsk, tysk og russisk.</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-europa.png</image>
+        </text>
+        <text>
+            <title>Videnskabeligt.</title>
+            <paragrapho>Interlingua er resultatet af et stort samarbejde mellem europæiske og amerikanske sprogforskere. De har metodisk udvundet det internationale ordforråd, som er fælles for de store europæiske sprog.</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-destillation.png</image>
+        </text>
+        <text>
+            <title>Naturligt.</title>
+            <paragrapho>Intet aspekt af interlingua er kunstigt eller opfundet. Alle ord og regler er baseret på mindst tre sprog af europæisk oprindelse. Interlingua er enkelt uden at være kunstigt.</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-palmas.png</image>
+        </text>
+        <text>
+            <title>Praktisk.</title>
+            <paragrapho>Millioner af mennesker forstår store dele af interlingua "ved første blik". Især folk, der taler romanske sprog, kan forstå store dele af interlingua øjeblikkeligt og næsten uden anstrengelse. Interlingua kan således være en hjælp på rejser.</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-conversation.png</image>
+        </text>
+        <text>
+            <title>Let at lære.</title>
+            <paragrapho>Interlinguas grammatik er meget ensartet, og udtalen følger strenge og enkle regler. Med interlingua undgår man endeløse lister med undtagelser og uregelmæssigheder.</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-facile.png</image>
+        </text>
+        <text>
+            <title>Pædagogisk.</title>
+            <paragrapho>Med interlingua lærer man næsten automatisk mange af fremmedordene i sit eget modersmål. Interlingua er en god base for senere sprogstudier.</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-libros.png</image>
+        </text>
+        <text>
+            <title>Neutralt.</title>
+            <paragrapho>Interlingua tilhører ikke en enkelt kultur eller et enkelt folk. Ingen har det som modersmål og har dermed en uretfærdig fordel. Tal interlingua, og gør en ende på den sproglige diskrimination.</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-bandieras.png</image>
+        </text>
+        <text>
+            <title>"Moderne latin".</title>
+            <paragrapho>Et flertal af alle internationale ord er af latinsk eller græsk oprindelse. I interlingua har disse internationale ord fået prototypiske og standardiserede former. Resultatetet er et "moderne latin", der er internationalt og simplificeret, elegant og praktisk.</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-ponte.png</image>
+        </text>
+        <text>
+            <title>Sjovt.</title>
+            <paragrapho>Med interlingua kan du møde et voksende miljø fuldt af intelligente og originale mennesker. Kom og hav det sjovt med os! Du er meget velkommen på vores konferencer!</paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-musica.png</image>
+        </text>
+        <final>Version breve</final>
+        <final>INTERLINGUA er et internationalt sprog, som er resultatet af et stort samarbejde mellem sprogforskere fra Europa og Amerika. Interlinguas ordforråd er baseret på de internationale ord fra bl.a. latin og græsk, som nu findes i mindst tre af følgende sprog: Italiensk, fransk, spansk/portugisisk, engelsk, tysk og russisk. Interlinguas grammatik er enkel og let at lære. Udtalen er regelmæssig og kontinental-europæisk.</final>
+        <final>Dansk Interlingua Union</final>
+        <final>Sekretariatet</final>
+        <final>Kirkeholmen 10</final>
+        <final>DK-2630 Taastrup</final>
+        <final>Danmark</final>
+        <final>info * interlingua.dk</final>
+    </lingua>
+    
+    <lingua>
+        <namelingua>et</namelingua>
+        <capite>Kas Sind huvitab rahvusvaheline suhtlus Euroopas, Põhja- ja Lõuna-Ameerikas, Austraalias või enamuses Aafrikas?</capite>
+        <capite>Kas Sa soovid õppida uut võõrkeelt aga pead seda raskeks?</capite>
+        <capite>Kas sind huvitavad keeled üldiselt?</capite>
+        <capite>Kaalu Interlingua õppimist, mis on kaasaegne vahend rahvusvaheliseks suhtluseks.</capite>
+        <text>
+            <title>üle-Euroopaline.</title>
+            <paragrapho>Interlingua sõnavara on tuletatud itaalia, hispaania/portugali, prantsuse, inglise, saksa ja vene keeltest </paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-europa.png</image>
+        </text>
+        <text>
+            <title>teaduslikul alusel põhinev.</title>
+            <paragrapho>Interlingua loodi Euroopa ja Ameerika lingvistide poolt, kes valisid peamistest euroopa keeltest metoodiliselt “ühise” sõnavara </paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-destillation.png</image>
+        </text>
+        <text>
+            <title>loomulik.</title>
+            <paragrapho>mitte ükski Interlingua omadus ei ole kunstlik, iga omadus toetub vähemalt kolmele euroopa loomulikule keelele. Interlingua on lihtsustus, aga ilma kunstlikuseta </paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-palmas.png</image>
+        </text>
+        <text>
+            <title>praktiline.</title>
+            <paragrapho>miljonid inimesed mõistavad Interlinguat esimesest hetkest, eriti romaani keelte kõnelejad mõistavad Interlinguat peaaegu vaevata. Interlingua on ideaalne keel reisides </paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-conversation.png</image>
+        </text>
+        <text>
+            <title>lihtne.</title>
+            <paragrapho>Interlingua grammatika on ühtne, eranditeta, hääldus järgib kirjapilti. Interlinguas ei ole lõputuid loetelusid eranditest ja erandite eranditest </paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-facile.png</image>
+        </text>
+        <text>
+            <title>hariduslik.</title>
+            <paragrapho>Interlinguaga koos õpid pea automaatselt paljusid võõrsõnu. Inerlingua baasil on ideaalne õppida ja uurida teisi keeli </paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-libros.png</image>
+        </text>
+        <text>
+            <title>neutraalne.</title>
+            <paragrapho>Interlingua ei ole ühe kultuuri või inimrühma poolt domineeritud, ühelgi kasutajal ei ole emakeelse kõneleja eelist. Interlinguat kasutades aitad vähendada “lingvistilist diskrimineerimist” </paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-bandieras.png</image>
+        </text>
+        <text>
+            <title>"kaasaegne ladina keel".</title>
+            <paragrapho>enamik Interlingua sõnavarast on ladina või kreeka keele päritoluga. Interlinguas on nad standardiseeritud vormis (Le resultato es un "latino moderne" international e simplificate, elegante e practic.) </paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-ponte.png</image>
+        </text>
+        <text>
+            <title>lõbu.</title>
+            <paragrapho>Interlingua abil kohtud kasvava kogukonnaga, intelligentsete ja originaalsete inimestega. Meie konverentsid on unustamatu elamus. Tere tulemast! </paragrapho>
+            <image>https://interlingua.pedroruizhidalgo.es/assets/image/ia-musica.png</image>
+        </text>
+        <final>Vaata lähemalt ja võta ühendust Eesti Interlingua kogukonnaga</final>
+        <final>www.facebook.com/pages/Interlingua/196126990399000 </final>
+        <final>martin.luts@eesti.ee.</final>
+    </lingua>
+    
+</information>

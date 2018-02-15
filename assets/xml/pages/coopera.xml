@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documento SYSTEM "../document.dtd">
+<documento>
+    <typo>web</typo>
+    <data>20180108</data>
+    <incatenar>
+        <vade></vade>
+        <veni>http://interlingua.pedroruizhidalgo.es</veni>
+    </incatenar>
+    <taxinomia>Coopera con nos</taxinomia>
+    <autores>
+        <autor>
+            <nomine>Pedro Ruiz Hidalgo</nomine>
+            <retes>@pedroruizhidalg</retes>
+            <retes>interlingua@pedroruizhidalgo.es</retes>
+        </autor>
+    </autores>
+    <contento>
+        <titulo>Iste projecto es aperte pro te!</titulo>
+        <imagine>https://interlingua.pedroruizhidalgo.es/assets/image/cooperacion.jpg</imagine>
+        <texto>Como si essera un limite de un function que non pote attinger le final, iste projecto es assí. Il es in un constante evolution, forsan revolution, que face de illo un loco aperto e in constante cambio.
+        
+        Si tu posede o cognosce un projecto que incatenar o, forsan, tu vole adjutar a disveloppar o contribuer hic, per favor contacta nos.
+        
+        /link"https://interlingua.pedroruizhidalgo.es/documento/instructiones_pro_collaborar"/l_Sape plus de nostre systemal_/ link/.
+        
+        </texto>
+    </contento>
+</documento>

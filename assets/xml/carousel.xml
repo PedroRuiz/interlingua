@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE carousel SYSTEM "carousel.dtd">
+<carousel>
+	<slide>
+		<itemactive>active</itemactive>
+		<image>assets/image/meet.jpg</image>
+		<alt_text>slide 1</alt_text>
+		<title>Face un differentia</title>
+		<justify>text-xs-right</justify>
+		<text>Interlingua face possibile que tu communication con personas de altere lingua es fluite. Illo es multo importante pro qui besonia parlar en ambientes international.</text>
+		<href>http://interlingua.pedroruizhidalgo.es/article/communica-con-omne</href>
+		<button_text>Sape plus</button_text>
+	</slide>
+	<slide>
+		<itemactive>inactive</itemactive>
+		<image>assets/image/shake.jpg</image>
+		<alt_text>slide 1</alt_text>
+		<title>Communica con omne</title>
+		<justify>''</justify>
+		<text>Nos es un comunitate crescente in cinque continentes. Il ha grande quantitates de recusos e personas pro apprender e practicar. Definitivemente, opportunitates de communication.</text>
+		<href>http://interlingua.pedroruizhidalgo.es/article/communica-con-omne</href>
+		<button_text>Discopery</button_text>
+	</slide>
+	<slide>
+		<itemactive>inactive</itemactive>
+		<image>assets/image/windows.jpg</image>
+		<alt_text>slide 1</alt_text>
+		<title>Discoperi un mundo de possibilitates con Interlingua</title>
+		<justify>text-xs-left</justify>
+		<text>Interlingua es "le latino que tu jam comprende". Illo significa que leger e interpretar textos es, per le proprie structura, un processo natural.</text>
+		<href>http://interlingua.pedroruizhidalgo.es/article/communica-con-omne</href>
+		<button_text>Vade al successo</button_text>
+	</slide>
+</carousel>

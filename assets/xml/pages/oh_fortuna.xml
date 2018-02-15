@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documento SYSTEM "../document.dtd">
+<documento>
+    <typo>Traductiones</typo>
+    <data>20180116</data>
+    <incatenar>
+        <veni>https://interlingua.pedroruizhidalgo.es/leger</veni>
+    </incatenar>
+    <taxinomia>Canto medieval "Oh Fortuna"</taxinomia>
+    <autores>
+        <autor>
+            <nomine>Pedro Ruiz Hidalgo</nomine>
+            <retes>interlingua@pedroruizhidalgo.es</retes>
+            <retes>@pedroruizhidalg</retes>
+        </autor>
+    </autores>
+    <contento>
+        <titulo>Carmina Burana: Oh Fortuna</titulo>
+        <imagine>https://interlingua.pedroruizhidalgo.es/assets/image/oh_fortuna.jpg</imagine>
+        <texto>Oh Fortuna,
+como le luna
+stato variabile
+sempre se cresce
+o se decrescentia;
+
+Vita abominabile,
+nunc opprime
+e pois cura
+como en un joco
+a le provressa
+e al poter
+disgelava como le glacie.
+
+Sorte monstruose
+e vacue,
+tu rota gira,
+stato malefic,
+le sanitate es vacua,
+sempre se funde,
+in umbra
+e velante
+etiam a me occide;
+nunc in le joco
+io porto mi dorso nude
+por tu malitia.
+
+Le sorte en le sanitate
+e in la virtute
+es contra me,
+illa me pulsa
+e me frena,
+sempre me ha sclavo.
+In iste hora,
+sin retardo,
+musica les cordas que vibra,
+quia le sorte 
+annihila al forte,
+vos plorar omnes con me.</texto>
+    </contento>
+</documento>

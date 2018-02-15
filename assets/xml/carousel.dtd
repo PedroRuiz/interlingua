@@ -1,0 +1,11 @@
+<!-- una DTD para carousel -->
+<!ELEMENT carousel (slide+) >
+	<!ELEMENT slide (itemactive,image,alt_text,title,justify,text,href,button_text)+ >
+		<!ELEMENT itemactive	(#PCDATA)>
+		<!ELEMENT image 		(#PCDATA)>
+		<!ELEMENT alt_text		(#PCDATA)>
+		<!ELEMENT title			(#PCDATA)>
+		<!ELEMENT justify		(#PCDATA)>
+		<!ELEMENT text			(#PCDATA)>
+		<!ELEMENT href			(#PCDATA)>
+		<!ELEMENT button_text	(#PCDATA)>

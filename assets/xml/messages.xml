@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE messages SYSTEM "messages.dtd">
+<messages>
+    <message>
+        <email></email>
+        <nomine></nomine>
+        <nominefamilia></nominefamilia>
+        <texto></texto>
+    </message>
+</messages>

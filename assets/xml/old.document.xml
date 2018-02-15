@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documento SYSTEM "../document.dtd">
+<documento>
+    <typo></typo>
+    <data></data>
+    <taxinomia></taxinomia>
+    <autores>
+        <autor>
+            <nomine></nomine>
+            <retes></retes>
+            <retes></retes>
+        </autor>
+    </autores>
+    <contento>
+        <titulo></titulo>
+        <imagine></imagine>
+        <texto></texto>
+    </contento>
+</documento>

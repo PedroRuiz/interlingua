@@ -1,0 +1,15 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-bottom: 2rem;
+}
+
+.jumbotron {
+    background-image: url("https://interlingua.pedroruizhidalgo.es/assets/image/leger.jpeg");
+    background-color: #17234E;
+    margin-bottom: 0;`enter code here`
+    min-height: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-background-size: cover;
+    background-size: cover;
+}

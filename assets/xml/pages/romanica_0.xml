@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documento SYSTEM "../document.dtd">
+<documento>
+    <typo>NOVA ROMANICA</typo>
+    <data>20180106</data>
+    <incatenar>
+        <vade></vade>
+        <veni>http://interlingua.pedroruizhidalgo.es</veni>
+    </incatenar>
+    <taxinomia>Nova Romanica</taxinomia>
+    <autores>
+        <autor>
+            <nomine>Herminio Latone</nomine>
+            <retes>Vivacchiananda</retes>
+        </autor>
+    </autores>
+    <contento>
+        <titulo>Introduction alla Nova Romanica</titulo>
+        <imagine>https://interlingua.pedroruizhidalgo.es/assets/image/romanica_0.jpg</imagine>
+        <texto>Le mio experimento es /boldcrear un forma de romanicabold/ (desde nunc NR) que accostuma le utilisator de interlingua non romanophono al passage al conjugationes verbal e concordantia de genere con medio effortio mais sin timor, (IA e le mie IR e IR in general son intercambiabiles).
+
+Mesmo le interlinguista romanophono pote exprimer se plus naturalmente sin deber se limitar  expressivemente, adjutando con su "scriptos" le apprehendista, /boldil es como un muthuo succurso o un systema qui se autopromove.bold/
+</texto>
+    </contento>
+</documento>

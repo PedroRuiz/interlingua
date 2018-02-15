@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documento SYSTEM "../document.dtd">
+<documento>
+    <typo>Traductiones</typo>
+    <data>20180104</data>
+    <incatenar>
+        <vade>http://interlingua.pedroruizhidalgo.es/documento/platero_1</vade>
+        <veni>http://interlingua.pedroruizhidalgo.es</veni>
+    </incatenar>
+    <taxinomia>ADVERTIMENTO AL HOMINES
+QUI LEGE ISTE LIBRO PRO INFANTES</taxinomia>
+    <autores>
+        <autor>
+            <nomine>Pedro Ruiz Hidalgo</nomine>
+            <retes>@pedroruizhidalg</retes>
+            <retes>interlingua@pedroruizhidalgo.es</retes>
+        </autor>
+    </autores>
+    <contento>
+        <titulo>Platero e io</titulo>
+        <imagine>https://interlingua.pedroruizhidalgo.es/assets/image/platero_0.jpg</imagine>
+        <texto>Iste curte libro, ubi le gaudio e le pena es gemine, qual le aures de Platero, il esseva scripte pro... que sape io pro qui!... pro qui scribe nos le poetas lyric... Ora que va al infantes, io no subtrahe nec un virgula. Que ben!
+
+        “Ubicunque que ha infantes —dice Novalis—, existe un etate de auro”. Tunc pro iste etate de auro, que es como un insula spiritual cadite del celo, ambula le corde del poeta, e incontra se illac tanto a su placer, que su melior desiro essera no haber que abandonar la nunquam.
+
+        Insula de gratia, de frescor e de gaudio, etate de auro del infantes; sempre habeva te io en mi vita, mar de duello; e que tu brisa me da su lira, altia e, sovente, sin senso, eque que le trillo de le aloda in le sol blanc del alba!
+
+        LE POETA
+        Madrid, 1914
+        
+        A la memoria de Aguedilla,
+        le povre demente del strata del Sol,
+        que me inviava rubos e carnationes.</texto>
+        
+    </contento>
+</documento>

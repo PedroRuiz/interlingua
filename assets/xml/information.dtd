@@ -1,0 +1,13 @@
+<!-- una DTD para carousel -->
+<!ELEMENT information (lingua+) >
+	<!ELEMENT lingua (namelingua,capite*,text*,final*)+ >
+		<!ELEMENT namelingua	(#PCDATA)>
+		<!ELEMENT capite		(#PCDATA)>
+		
+		<!ELEMENT text			(title*,paragrapho,image)>
+            <!ELEMENT title 		(#PCDATA)>
+            <!ELEMENT paragrapho	(#PCDATA)>
+            <!ELEMENT image			(#PCDATA)>
+			
+		<!ELEMENT final			(#PCDATA)>
+			

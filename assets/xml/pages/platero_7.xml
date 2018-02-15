@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE documento SYSTEM "../document.dtd">
+<documento>
+    <typo>Traductiones</typo>
+    <data>20180106</data>
+    <incatenar>
+        <vade>http://interlingua.pedroruizhidalgo.es/documento/platero_8</vade>
+        <veni>http://interlingua.pedroruizhidalgo.es/documento/platero_6</veni>
+    </incatenar>
+    <taxinomia>LE FOLLE</taxinomia>
+    <autores>
+        <autor>
+            <nomine>Pedro Ruiz Hidalgo</nomine>
+            <retes>@pedroruizhidalg</retes>
+            <retes>interlingua@pedroruizhidalgo.es</retes>
+        </autor>
+    </autores>
+    <contento>
+        <titulo>Platero e io</titulo>
+        <imagine>https://interlingua.pedroruizhidalgo.es/assets/image/platero_7.jpg</imagine>
+        <texto>Vestite de lucto, con mi barba nazarese e mi breve cappello nigre, io debe haber un rar aspecto cavalcante in le mollessa gris de Platero.
+
+Quando, vadente al vinias, io interseca le ultime stratas, blanc de calce con sol, le infantes tsigan, oleose, e hirsute, foras del vetule vestimentos verde, rubie e jalne, le tense pancias tostate, illes curre retro de nos, critante largemente:
+
+— Le folle! Le folle! Le folle!
+
+…Ante esse jam le campo verde. Fronte al celo immense e pur, de un incendiate azur, mis oculos
+
+—tante longe de mis aures— on aperi nobilemente, recipiente en su calme iste placide de nulle nomine, iste serenitate harmoniose de divina que vive in le nulle fin del horizonte...
+
+E permane, illac lontan, por le altes pratos, un acute critos, velate finalmente, irregular, foras de halito, tediose:
+
+— Le fo....lle! Le fo...lle!
+        </texto>
+    </contento>
+</documento>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE spots SYSTEM "spot.dtd">
+<spots>
+    <spot>
+        <title>Aperi Opportunitates</title>
+        <image>assets/image/direction.jpg</image>
+        <text>In un mundo ubi global, ubi communicar con alteres on torna como opportunitates de successo, aperi te a nostre systema de communication.</text>
+        <href>https://interlingua.pedroruizhidalgo.es/documento/aperi_oportunitates</href>
+        <button_text>Aperi te</button_text>
+    </spot>
+    <spot>
+        <title>Romanica</title>
+        <image>assets/image/homeromanica.jpeg</image>
+        <text>Un forma de romanica que accostuma le utilisator de interlingua non romanophono al passage al conjugationes verbal e concordantia de genere con medio effortio mais sin timor.</text>
+        <href>http://interlingua.pedroruizhidalgo.es/documento/romanica_0</href>
+        <button_text>Aprende Romanica</button_text>
+    </spot>
+    <spot>
+        <title>Coopera</title>
+        <image>assets/image/coopera.jpg</image>
+        <text>Nostre communitate es necesitate de personas que apporta congnoscimentos, traductiones, etcetera. Per example, nos jam ha un version de Linux Mint in Interlingua. Que tu pote facer pro Interlingua?</text>
+        <href>https://interlingua.pedroruizhidalgo.es/documento/coopera</href>
+        <button_text>Coopera con nos</button_text>
+    </spot>
+</spots>
