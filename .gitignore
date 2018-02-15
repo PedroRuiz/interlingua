@@ -5,6 +5,9 @@ application/cache/*
 
 .ftpconfig
 
+assets/image/*
+
+
 application/logs/*
 !application/logs/index.html
 
